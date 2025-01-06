@@ -16,7 +16,7 @@ const Home = () => {
           <div className="info">
             <h1>
               Discover the city that is shifting to become European Capital Of
-              Colture in 2029.
+              Culture in 2029.
             </h1>
             <p>
               Explore the map, discover the details of the buildings and follow
